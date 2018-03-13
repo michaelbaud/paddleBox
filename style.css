@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	height: 100vh;
+	width: 100vw;
+}
+
+.paddleBox {
+	margin: auto;
+}
+
+.touch {
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+	border-radius: 15px;
+	box-shadow: 0px 5px 5px 0px #656565;
+}
+
+.touch1 {
+	background-color: blue;
+}
+
+.touch2 {
+	background-color: yellow;
+}
+
+.touch3 {
+	background-color: red;
+}
+
+.touch4 {
+	background-color: purple;
+}
+
+.touch5 {
+	background-color: brown;
+}
+
+.touch6 {
+	background-color: green;
+}
+
+.touch7 {
+	background-color: pink;
+}
+
+.touch8 {
+	background-color: grey;
+}
+
+.touch9 {
+	background-color: black;
+}
